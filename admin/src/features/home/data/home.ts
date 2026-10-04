@@ -1,0 +1,16 @@
+export const dataDashbordGrowthChart = [
+  { month: "May 01", appointment: 180 },
+  { month: "", appointment: 240 },
+  { month: "", appointment: 160 },
+  { month: "", appointment: 280 },
+  { month: "May 10", appointment: 340 },
+  { month: "", appointment: 300 },
+  { month: "", appointment: 380 },
+  { month: "", appointment: 360 },
+  { month: "", appointment: 400 },
+  { month: "May 20", appointment: 420 },
+  { month: "", appointment: 350 },
+  { month: "", appointment: 320 },
+  { month: "", appointment: 290 },
+  { month: "Today", appointment: 370 },
+];
